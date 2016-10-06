@@ -746,6 +746,7 @@
 				2D99B3C21DA6CAAF001AC282 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
