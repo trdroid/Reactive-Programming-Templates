@@ -88,3 +88,11 @@ droid@Yamz:~/onGit/Reactive-Programming-Templates/ReactiveCocoa/RACSetupWithCart
 /Users/droid/onGit/Reactive-Programming-Templates/ReactiveCocoa/RACSetupWithCarthage/Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/Swift/SignalProducer.swift:1945:69: warning: 'buffer' is deprecated: Use properties instead. 'buffer' will be removed in RAC 5.0
 /Users/droid/onGit/Reactive-Programming-Templates/ReactiveCocoa/RACSetupWithCarthage/Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/Swift/SignalProducer.swift:1945:69: warning: 'buffer' is deprecated: Use properties instead. 'buffer' will be removed in RAC 5.0
 ```
+
+![](_misc/Linked%20Frameworks%20and%20Libraries.png)
+
+Follow the instructions under "Getting Started" at https://github.com/Carthage/Carthage on adding frameworks. Add the generated frameworks located at *RACSetupWithCarthage/Carthage/Build*
+
+![](_misc/Adding%20Frameworks.png)
+
+![](_misc/Unable%20to%20import%20ReactCocoa%20module.png)
