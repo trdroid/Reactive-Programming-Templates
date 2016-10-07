@@ -1,0 +1,6 @@
+platform :ios
+use_frameworks!
+
+target 'RACSetupWithCocoaPods' do
+ pod 'ReactiveCocoa'
+end
